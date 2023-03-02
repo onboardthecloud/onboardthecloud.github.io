@@ -1,0 +1,99 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Microsoft Deutschland GmbH.
+    url: "https://www.microsoft.com"
+    location: Hamburg, Germany
+    # company overview
+    overview: Microsoft is an American multinational technology corporation producing computer software, consumer electronics, personal computers, and related services. The company is widely known for her Windows Operating System and the Azure Cloud.
+  positions:
+  - designation: Cloud Solutions Architect - Engineering
+    start: Jul 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Support customer on their way to the (hybrid) cloud
+    - Guiding the customer in the integration and migration of legacy systems to the cloud 
+    - Preparing and holding workshops for new technologies and best practices
+
+  - designation: Customer Engineer
+    start: Jul 2019
+    end: Jun 2022
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Trusted technical advisor for customer in Secure Infrastructure and Azure
+    - Plan for and support during upgrades and migration to new hardware, operating systems and app versions
+    - Preparing and holding workshops for new technologies and software versions
+
+- company:
+    name: Landesamt für Gesundheit und Soziales M-V (LAGuS)
+    url: "https://www.government-mv.de/"
+    location: Rostock, Germany
+    overview: The LAGuS sees itself as a competence center for health and occupational safety as well as for central social tasks. It is the upper state authority in the portfolio of the Ministry of Social Affairs, Health and Sport in the german State of Mecklenburg-Vorpommern.
+  positions:
+  - designation: Sachbearbeiter IT (Executive Officer IT)
+    start: March 2018
+    end: Jun 2019
+    responsibilities:
+    - IT Infrastructure Support for a government agency with 500 user
+    - Supporting our Environment with VMware vSphere Cluster,Windows Server, Citrix XenApp, Microsoft SQL Server, Brocade Switches
+    - Planning infrastructure upgrades and migration
+
+- company:
+    name: DNV - Digital Solutions
+    url: "https://www.dnv.com"
+    location: Rostock, Germany
+    overview: DNV (formerly DNV GL) is an international accredited registrar and classification society headquartered in Høvik, Norway.
+  positions:
+  - designation: Senior IT Specialist
+    start: Nov 2012
+    end: Feb 2018
+    responsibilities:
+    - Managing projects with external consultants, Corporate IT and various other departments located in Europe and Asia
+    - Vendor and supplier management
+    - Supporting our Hosting Environment with VMware vSphere Cluster, Windows Server, Citrix XenApp, Microsoft SQL Server and Dell Storage, Azure IaaS and PaaS services
+    - Supporting Dev Teams with test environments and Go-live environment for our cloud solutions
+
+- company:
+    name: Suzlon Energy GmbH
+    url: "https://www.government-mv.de/"
+    location: Rostock, Germany
+    overview: Suzlon Energy Limited is an Indian multinational wind turbine manufacturer based in Pune, India.
+  positions:
+  - designation: IT Administrator
+    start: Mar 2011
+    end: Oct 2012
+    responsibilities:
+    - Managing projects with external consultants and the Corporate IT located in Pune, India
+    - Supporting VMware vSphere Cluster,Windows Server, EMC Storage and FortiGate Firewalls
+
+- company:
+    name: INR Informationssysteme Rostock e. Kfm.
+    url: "https://www.inronline.de/"
+    location: Rostock, Germany
+    overview: INR is a family-owned IT company in Rostock, Germany, established in 1991.
+  positions:
+  - designation: IT Engineer
+    start: Feb 2007
+    end: Feb 2011
+    responsibilities:
+    - Prepare service and hardware offers for the customer
+    - Supporting VMware vSphere Cluster, Windows/Unix/Linux Server, HP Storage and Networking
+
+  - designation: Student Worker IT
+    start: May 2001
+    end: Jan 2011
+    responsibilities:
+    - Supporting Linux, SUN Solaris, HP-UX, Windows Server, HP Server and Storage Systems
+  
