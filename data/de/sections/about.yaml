@@ -1,6 +1,6 @@
 # section information
 section:
-  name: About
+  name: Über mich
   id: about
   enable: true
   weight: 1
@@ -15,10 +15,14 @@ company:
   url: "https://www.microsoft.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+# Dreprecated. Use resourceLinks instead.
+# resume: "files/resume.pdf"
+resourceLinks:
+- title: Lebenslauf (EN)
+  url: "files/cv.pdf"
 
 # a summary about you
-summary: 'I am a passionate customer engineer with 20 years of working experience. I support our customers on their journey to the cloud and in connecting the old and new worlds through hybrid solutions.'
+summary: 'Ich bin ein erfahrener Customer Engineer mit 20 Jahren Berufserfahrung. Ich unterstütze unsere Kunden auf ihrem Weg in die Cloud und bei der Verbindung der alten und neuen Welt durch hybride Lösungen.'
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -29,7 +33,7 @@ socialLinks:
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://github.com/onboardthecloud"
 
 - name: LinkedIn
   icon: "fab fa-linkedin"
@@ -66,5 +70,4 @@ badges:
 - type: soft-skill-indicator
   name: English
   percentage: 80
-  color: blue
-
+  color: green

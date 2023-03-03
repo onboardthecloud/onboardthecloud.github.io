@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Skills
+  name: Kenntnisse
   id: skills
   enable: true
   weight: 2
@@ -13,15 +13,24 @@ section:
 skills:
 - name: Kubernetes
   logo: "/images/sections/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+  summary: "In der Lage, Anwendungen in Kubernetes zu implementieren und zu verwalten. Erfahrung im Schreiben von Kubernetes-Controllern für CRDs."
   url: "https://kubernetes.io/"
 
 - name: 'Windows Server'
   logo: "/images/sections/skills/Windows_logo_-_2021.svg.png"
-  summary: "Support for Windows Server for over 20 years. Support Customer using Windows Server in Private, Hybrid and Public Cloud Environments"
+  summary: "Betreuung von Windows Server seit über 20 Jahren. Unterstützung von Kunden, die Windows Server in privaten, hybriden und öffentlichen Cloud-Umgebungen nutzen"
   url: "https://www.microsoft.com/en-us/windows-server/"
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Benutze Linux seit 1996. In der Lage es zu konfigurieren, Fehler zu beheben und Bash/Shell-Skripte zu schreiben."
 
 - name: 'Microsoft Azure'
   logo: "/images/sections/skills/azure.png"
-  summary: "Worked with Microsoft Azure for several years."
+  summary: "Arbeite seit mehreren Jahren mit Microsoft Azure."
   url: "https://azure.microsoft.com"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Erfahrung mit Git-basierter Entwicklung. Überwiegende Verwendung von Github, aber auch Erfahrung in der Nutzung anderer Git-Produkte."
+  url: "https://git-scm.com/"

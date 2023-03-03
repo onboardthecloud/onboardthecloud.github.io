@@ -21,7 +21,16 @@ skills:
   summary: "Support for Windows Server for over 20 years. Support Customer using Windows Server in Private, Hybrid and Public Cloud Environments"
   url: "https://www.microsoft.com/en-us/windows-server/"
 
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Familiar with Linux since 1996. Capable of configuring, troubleshooting and writing bash/shell scripts."
+
 - name: 'Microsoft Azure'
   logo: "/images/sections/skills/azure.png"
   summary: "Worked with Microsoft Azure for several years."
   url: "https://azure.microsoft.com"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with other Git Products."
+  url: "https://git-scm.com/"
